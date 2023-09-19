@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @satyajit3330
+- 👋 Hi, I’m @satyajit
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on student
 - 📫 How to reach me email
 
