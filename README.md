@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satyajit
-- 👀 I’m interested in web devlopment
+- 👀 I’m interested in software devlopment
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on student
 - 📫 How to reach me email
